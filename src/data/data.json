@@ -1,0 +1,16 @@
+[{
+    "name": "Bike",
+    "img": "http://www.pngpix.com/wp-content/uploads/2016/07/PNGPIX-COM-KTM-RC-390-Motorcycle-Bike-PNG-Image.png"
+  }, 
+   {  
+    "name": "Car",
+    "img": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-audi-a4-2-tdi-sedan-angular-front.png"
+  },
+   {
+    "name": "Bus",
+    "img": "https://pngimg.com/uploads/bus/bus_PNG101194.png"
+  },
+   {
+    "name": "Train",
+    "img": "https://pngimg.com/uploads/trian/trian_PNG16620.png"
+  }]
